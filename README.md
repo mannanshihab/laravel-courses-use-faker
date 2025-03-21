@@ -37,11 +37,3 @@ This Laravel project generates dummy course data using the Faker library for tes
 ## Usage
 Visit `http://127.0.0.1:8000` to view generated course data. Modify `DatabaseSeeder.php` to adjust the number of generated records.
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
